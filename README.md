@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio and my github <br>🌱 I’m currently learning React and UX/UI development<br>
+🔭 I’m currently working on school projects <br>🌱 I’m currently learning web design and pyhon basics<br>
 
 
 ## 🌐 Socials:
