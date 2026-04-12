@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on school projects <br>🌱 I’m currently learning web design and python basics <br>
+🔭 I’m currently working on school projects <br>🌱 I’m currently learning AI development and OOP <br>
 
 
 ## 🌐 Socials:
