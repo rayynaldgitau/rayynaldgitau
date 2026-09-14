@@ -1,13 +1,11 @@
 # Hi, I'm Raynald 👋
 
-BSc Computer Science (Software Engineering) student at USIU-Africa, based in Nairobi. I build practical, shipping-oriented products, currently focused on consumer-facing tools for the Kenyan/African market, including M-Pesa integration, social commerce, and student productivity apps.
+BSc Computer Science student at USIU-Africa, based in Nairobi. I build practical, shipping-oriented products, currently focused on Machine learning and DevOps.
 
-🌱 Currently learning AI development and OOP
+🌱 Currently learning Database systems and Numerical Analysis, also working through a Machine Learning roadmap on the side
 🔭 Currently working on school projects and side builds
 
 ## 🚀 Currently Building
-
-**[PulseShop](https://pulseshop.space)** - Social commerce link-in-bio storefront platform for sellers on Instagram, WhatsApp, and Facebook. React/TypeScript frontend with Supabase backend, including RLS policies, OAuth, and an M-Pesa escrow payment architecture with delivery code verification.
 
 **[Portfolio](#)** - Personal site with a glassmorphism aesthetic, animated code-rain background, no frameworks, just HTML/CSS/JS.
 
@@ -21,19 +19,9 @@ BSc Computer Science (Software Engineering) student at USIU-Africa, based in Nai
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6aa84148c2d718138dcdc218?variant=dark)](https://roadmap.sh)
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=rayynaldgitau&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rayynaldgitau&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayynaldgitau&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rayynaldgitau&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=rayynaldgitau&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![Followers](https://img.shields.io/github/followers/rayynaldgitau?style=flat&logo=github) ![Stars](https://img.shields.io/github/stars/rayynaldgitau?style=flat&logo=github) ![Last Commit](https://img.shields.io/github/last-commit/rayynaldgitau/rayynaldgitau?style=flat&logo=github)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rayynaldgitau&icon=2&color=9)](https://visitcount.itsvg.in)
