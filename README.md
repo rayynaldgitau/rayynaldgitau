@@ -9,8 +9,6 @@ BSc Computer Science (Software Engineering) student at USIU-Africa, based in Nai
 
 **[PulseShop](https://pulseshop.space)** - Social commerce link-in-bio storefront platform for sellers on Instagram, WhatsApp, and Facebook. React/TypeScript frontend with Supabase backend, including RLS policies, OAuth, and an M-Pesa escrow payment architecture with delivery code verification.
 
-**Classping** - Student productivity and scheduling app with a gamified pet progression system (chibi-style SVG animals, streak-based rewards) built with Framer.
-
 **[Portfolio](#)** - Personal site with a glassmorphism aesthetic, animated code-rain background, no frameworks, just HTML/CSS/JS.
 
 ## 🛠️ Core Stack
