@@ -7,7 +7,7 @@ BSc Computer Science student at USIU-Africa, based in Nairobi. I build practical
 
 ##  Currently Building
 
-**[Portfolio](#)** - Personal site with a glassmorphism aesthetic, animated code-rain background, no frameworks, just HTML/CSS/JS.
+**[Foldy](#)** - A rust made version of file explorer
 
 ##  Core Stack
 
