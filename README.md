@@ -7,7 +7,7 @@ BSc Computer Science student at USIU-Africa, based in Nairobi. I build practical
 
 ##  Currently Building
 
-**[Foldy](#)** - A rust made version of file explorer
+**[Foldy](https://github.com/rayynaldgitau/Folderly-)** - A rust made version of file explorer
 
 ##  Core Stack
 
